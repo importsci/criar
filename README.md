@@ -6,7 +6,7 @@
 
 - Compartilhe seu projeto aqui
 
-- Veja ideias de novas aplicações, projetos e cases aqui
+- Veja os próximo projetos aqui
 
 ---------------------------------
 
