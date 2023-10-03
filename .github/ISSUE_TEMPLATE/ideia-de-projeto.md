@@ -1,20 +1,20 @@
 ---
 name: Ideia de projeto
 about: Sugestão de projetos, aplicações e cases para serem desenvolvidos.
-title: ''
-labels: ''
+title: "[Ideia] "
+labels: Ideia
 assignees: ''
 
 ---
 
-**Descreva a ideia de projeto, aplicação ou case e seu objetivo principal**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Descreva o objetivo da ideia a ser construída**
+Descrição breve e concisa sobre o objetivo final deste projeto. 
 
-**Descreva de forma macro como você imagina que a ideia deva ser construída**
-A clear and concise description of what you want to happen.
+**Descreva a ideia de projeto, aplicação ou case**
+Descrição breve e concisa sobre a ideia deste projeto para atingir o objetivo acima.
 
-**Descreva outras alternativas de solução que você considera**
-A clear and concise description of any alternative solutions or features you've considered.
+**Descreva alternativas de solução que você considera**
+Descrição breve e concisa sobre como você imagine que esta ideia pode ser construída.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contexto adicional**
+Adicione contexto or imagens sobre sua ideia.
