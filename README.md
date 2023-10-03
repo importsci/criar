@@ -2,9 +2,11 @@
 
 > Aplicações, projetos e cases de data science criados pela comunidade.
 
-Envie ideias para novos projetos aqui
+- Envie ideias para novos projetos aqui
 
-Compartilhe seu projeto aqui
+- Compartilhe seu projeto aqui
+
+- Veja ideias de novas aplicações, projetos e cases aqui
 
 ---------------------------------
 
@@ -28,8 +30,5 @@ Atribuimos os projetos em uma ou mais categorias para você procurar por aplica�
 
 
 
-## Ideias
-
-Veja ideias de novas aplicações, projetos e cases aqui
 
 
